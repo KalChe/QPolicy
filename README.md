@@ -1,5 +1,5 @@
 # QPolicy
 
-quantum policy eval
+quantum rl policy eval
 
 soon
